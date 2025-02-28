@@ -1,0 +1,251 @@
+,week,day,time,home,xGh,hGoal,aGoal,xGa,away
+0,1,Thu,19:00,Athletic Club,0.3,1,1,0.8,Getafe
+1,1,Thu,21:30,Betis,1.4,1,1,1.6,Girona
+2,1,Fri,19:00,Celta Vigo,0.8,2,1,1.6,Alavés
+3,1,Fri,20:30,Las Palmas,1.4,2,2,1.8,Sevilla
+4,1,Sat,19:00,Osasuna,1.7,1,1,1.0,Leganés
+5,1,Sat,21:30,Valencia,1.0,1,2,3.2,Barcelona
+6,1,Sun,19:00,Real Sociedad,1.1,1,2,1.1,Rayo Vallecano
+7,1,Sun,21:30,Mallorca,1.0,1,1,0.6,Real Madrid
+8,1,Mon,19:00,Valladolid,0.8,1,0,0.7,Espanyol
+9,1,Mon,21:30,Villarreal,0.8,2,2,1.1,Atlético Madrid
+10,2,Fri,19:00,Celta Vigo,1.3,3,1,0.9,Valencia
+11,2,Fri,21:30,Sevilla,1.0,1,2,0.9,Villarreal
+12,2,Sat,17:00,Osasuna,0.6,1,0,0.6,Mallorca
+13,2,Sat,19:00,Barcelona,1.8,2,1,1.0,Athletic Club
+14,2,Sat,21:30,Espanyol,1.6,0,1,0.7,Real Sociedad
+15,2,Sat,21:30,Getafe,0.5,0,0,0.2,Rayo Vallecano
+16,2,Sun,17:00,Real Madrid,2.1,3,0,0.4,Valladolid
+17,2,Sun,19:00,Leganés,1.5,2,1,0.9,Las Palmas
+18,2,Sun,19:15,Alavés,0.2,0,0,1.5,Betis
+19,2,Sun,21:30,Atlético Madrid,1.2,3,0,0.7,Girona
+20,3,Mon,21:30,Villarreal,3.6,4,3,2.7,Celta Vigo
+21,3,Tue,19:00,Mallorca,0.9,0,0,0.7,Sevilla
+22,3,Tue,21:30,Rayo Vallecano,0.4,1,2,1.4,Barcelona
+23,3,Wed,19:00,Valladolid,1.1,0,0,0.2,Leganés
+24,3,Wed,19:00,Athletic Club,1.4,1,0,0.1,Valencia
+25,3,Wed,21:30,Real Sociedad,1.0,1,2,1.6,Alavés
+26,3,Wed,21:30,Atlético Madrid,2.3,0,0,0.6,Espanyol
+27,3,Thu,19:00,Girona,2.4,4,0,0.0,Osasuna
+28,3,Thu,20:30,Las Palmas,0.8,1,1,2.5,Real Madrid
+29,4,Sat,17:00,Barcelona,4.7,7,0,0.5,Valladolid
+30,4,Sat,19:00,Athletic Club,0.3,0,1,1.7,Atlético Madrid
+31,4,Sat,19:15,Espanyol,1.6,2,1,1.3,Rayo Vallecano
+32,4,Sat,21:30,Leganés,0.3,0,1,1.0,Mallorca
+33,4,Sat,21:30,Valencia,1.1,1,1,0.5,Villarreal
+34,4,Sun,17:00,Alavés,2.0,2,0,0.7,Las Palmas
+35,4,Sun,17:00,Osasuna,0.9,3,2,1.7,Celta Vigo
+36,4,Sun,19:00,Sevilla,0.9,0,2,1.9,Girona
+37,4,Sun,19:15,Getafe,0.6,0,0,0.0,Real Sociedad
+38,4,Sun,21:30,Real Madrid,2.4,2,0,0.6,Betis
+39,5,Fri,21:00,Betis,2.1,2,0,0.1,Leganés
+40,5,Sat,14:00,Mallorca,0.3,1,2,1.8,Villarreal
+41,5,Sat,16:15,Espanyol,1.6,3,2,1.9,Alavés
+42,5,Sat,18:30,Sevilla,1.4,1,0,1.0,Getafe
+43,5,Sat,21:00,Real Sociedad,1.1,0,2,2.3,Real Madrid
+44,5,Sun,14:00,Celta Vigo,1.8,3,1,0.5,Valladolid
+45,5,Sun,16:15,Girona,1.3,1,4,1.9,Barcelona
+46,5,Sun,17:30,Las Palmas,1.4,2,3,1.7,Athletic Club
+47,5,Sun,21:00,Atlético Madrid,3.1,3,0,0.1,Valencia
+48,5,Mon,21:00,Rayo Vallecano,1.6,3,1,0.3,Osasuna
+49,7,Tue,19:00,Mallorca,1.2,1,0,0.6,Real Sociedad
+50,3,Wed,19:00,Betis,2.6,2,1,0.6,Getafe
+51,7,Thu,19:00,Leganés,0.9,0,2,1.3,Athletic Club
+52,6,Fri,21:00,Alavés,1.1,2,1,0.5,Sevilla
+53,6,Sat,14:00,Valladolid,1.0,0,0,1.4,Real Sociedad
+54,6,Sat,16:15,Osasuna,1.9,2,1,0.8,Las Palmas
+55,6,Sat,18:30,Valencia,0.4,2,0,0.4,Girona
+56,6,Sat,21:00,Real Madrid,4.4,4,1,0.3,Espanyol
+57,6,Sun,14:00,Getafe,1.5,1,1,0.6,Leganés
+58,6,Sun,16:15,Athletic Club,0.7,3,1,1.3,Celta Vigo
+59,6,Sun,18:30,Villarreal,2.2,1,5,3.9,Barcelona
+60,6,Sun,21:00,Rayo Vallecano,1.7,1,1,0.5,Atlético Madrid
+61,6,Mon,21:00,Betis,1.0,1,2,1.0,Mallorca
+62,7,Tue,19:00,Sevilla,2.1,2,1,0.7,Valladolid
+63,7,Tue,19:00,Valencia,0.7,0,0,0.5,Osasuna
+64,7,Tue,21:00,Real Madrid,1.3,3,2,0.9,Alavés
+65,7,Wed,19:00,Girona,2.0,0,0,0.5,Rayo Vallecano
+66,7,Wed,21:00,Barcelona,1.9,1,0,0.7,Getafe
+67,7,Thu,18:00,Las Palmas,1.0,1,1,1.9,Betis
+68,7,Thu,19:00,Espanyol,0.4,1,2,1.6,Villarreal
+69,7,Thu,21:00,Celta Vigo,1.5,0,1,0.6,Atlético Madrid
+70,8,Fri,21:00,Valladolid,1.2,1,2,2.2,Mallorca
+71,8,Sat,14:00,Getafe,2.1,2,0,0.5,Alavés
+72,8,Sat,16:15,Rayo Vallecano,0.9,1,1,0.9,Leganés
+73,8,Sat,18:30,Real Sociedad,3.4,3,0,0.8,Valencia
+74,8,Sat,21:00,Osasuna,2.2,4,2,0.8,Barcelona
+75,8,Sun,14:00,Celta Vigo,0.5,1,1,0.8,Girona
+76,8,Sun,16:15,Athletic Club,2.0,1,1,1.1,Sevilla
+77,8,Sun,18:30,Betis,2.1,1,0,0.5,Espanyol
+78,8,Sun,21:00,Atlético Madrid,1.3,1,1,0.8,Real Madrid
+79,8,Mon,21:00,Villarreal,2.8,3,1,0.9,Las Palmas
+80,9,Fri,21:00,Leganés,0.8,0,0,0.5,Valencia
+81,9,Sat,14:00,Espanyol,0.9,2,1,1.6,Mallorca
+82,9,Sat,16:15,Getafe,0.8,1,1,0.3,Osasuna
+83,9,Sat,17:30,Las Palmas,1.3,0,1,0.8,Celta Vigo
+84,9,Sat,18:30,Valladolid,2.0,1,2,1.5,Rayo Vallecano
+85,9,Sat,21:00,Real Madrid,0.5,2,0,1.1,Villarreal
+86,9,Sun,14:00,Girona,1.9,2,1,3.1,Athletic Club
+87,9,Sun,16:15,Alavés,0.7,0,3,2.7,Barcelona
+88,9,Sun,18:30,Sevilla,1.4,1,0,0.6,Betis
+89,9,Sun,21:00,Real Sociedad,1.0,1,1,0.5,Atlético Madrid
+90,10,Fri,21:00,Alavés,0.5,2,3,2.4,Valladolid
+91,10,Sat,14:00,Athletic Club,1.3,4,1,0.2,Espanyol
+92,10,Sat,16:15,Osasuna,2.0,1,2,2.1,Betis
+93,10,Sat,18:30,Girona,0.4,0,1,1.7,Real Sociedad
+94,10,Sat,21:00,Celta Vigo,1.8,1,2,0.7,Real Madrid
+95,10,Sun,14:00,Mallorca,2.0,1,0,0.6,Rayo Vallecano
+96,10,Sun,16:15,Atlético Madrid,4.4,3,1,0.3,Leganés
+97,10,Sun,18:30,Villarreal,0.9,1,1,1.9,Getafe
+98,10,Sun,21:00,Barcelona,3.8,5,1,1.0,Sevilla
+99,10,Mon,21:00,Valencia,1.6,2,3,1.2,Las Palmas
+100,11,Fri,21:00,Espanyol,1.2,0,2,0.8,Sevilla
+101,11,Sat,14:00,Valladolid,0.9,1,2,2.0,Villarreal
+102,11,Sat,16:15,Rayo Vallecano,1.9,1,0,0.9,Alavés
+103,11,Sat,17:30,Las Palmas,0.9,1,0,0.6,Girona
+104,11,Sat,21:00,Real Madrid,1.5,0,4,2.6,Barcelona
+105,11,Sun,14:00,Leganés,1.6,3,0,0.9,Celta Vigo
+106,11,Sun,16:15,Getafe,2.2,1,1,0.7,Valencia
+107,11,Sun,18:30,Betis,1.9,1,0,0.5,Atlético Madrid
+108,11,Sun,21:00,Real Sociedad,1.6,0,2,1.0,Osasuna
+109,11,Mon,21:00,Mallorca,0.5,0,0,0.6,Athletic Club
+110,12,Fri,21:00,Alavés,1.1,1,0,0.5,Mallorca
+111,12,Sat,14:00,Osasuna,2.2,1,0,0.2,Valladolid
+112,12,Sat,16:15,Girona,2.0,4,3,0.4,Leganés
+113,12,Sun,14:00,Atlético Madrid,1.6,2,0,0.0,Las Palmas
+114,12,Sun,16:15,Barcelona,1.8,3,1,0.9,Espanyol
+115,12,Sun,18:30,Sevilla,1.1,0,2,1.4,Real Sociedad
+116,12,Sun,21:00,Athletic Club,4.0,1,1,0.9,Betis
+117,12,Mon,21:00,Celta Vigo,1.9,1,0,0.5,Getafe
+118,13,Fri,21:00,Rayo Vallecano,2.4,1,3,1.1,Las Palmas
+119,13,Sat,14:00,Real Madrid,3.1,4,0,0.1,Osasuna
+120,13,Sat,16:15,Villarreal,1.5,3,0,0.5,Alavés
+121,13,Sat,21:00,Leganés,1.1,1,0,0.6,Sevilla
+122,13,Sun,14:00,Betis,1.6,2,2,1.2,Celta Vigo
+123,13,Sun,16:15,Mallorca,0.6,0,1,0.6,Atlético Madrid
+124,13,Sun,18:30,Getafe,0.6,0,1,0.2,Girona
+125,13,Sun,18:30,Valladolid,0.6,1,1,1.2,Athletic Club
+126,13,Sun,21:00,Real Sociedad,2.0,1,0,0.7,Barcelona
+127,14,Fri,21:00,Getafe,0.6,2,0,1.1,Valladolid
+128,14,Sat,14:00,Valencia,1.5,4,2,1.3,Betis
+129,14,Sat,16:15,Atlético Madrid,1.6,2,1,0.9,Alavés
+130,14,Sat,17:30,Las Palmas,1.2,2,3,1.7,Mallorca
+131,14,Sat,18:30,Girona,3.5,4,1,0.5,Espanyol
+132,14,Sat,21:00,Celta Vigo,2.5,2,2,1.8,Barcelona
+133,14,Sun,14:00,Osasuna,1.0,2,2,2.5,Villarreal
+134,14,Sun,16:15,Sevilla,1.1,1,0,0.8,Rayo Vallecano
+135,14,Sun,18:30,Leganés,0.1,0,3,1.8,Real Madrid
+136,14,Sun,21:00,Athletic Club,1.3,1,0,0.5,Real Sociedad
+137,15,Fri,21:00,Mallorca,0.8,2,1,1.3,Valencia
+138,15,Sat,14:00,Barcelona,2.3,1,2,0.5,Las Palmas
+139,15,Sat,16:15,Alavés,1.1,1,1,0.9,Leganés
+140,15,Sat,18:30,Espanyol,0.9,3,1,1.6,Celta Vigo
+141,15,Sat,21:00,Valladolid,0.6,0,5,4.0,Atlético Madrid
+142,15,Sun,14:00,Villarreal,2.0,2,2,0.5,Girona
+143,15,Sun,16:15,Real Madrid,3.2,2,0,0.5,Getafe
+144,15,Sun,18:30,Rayo Vallecano,0.2,1,2,0.7,Athletic Club
+145,15,Sun,21:00,Real Sociedad,0.8,2,0,0.4,Betis
+146,15,Mon,21:00,Sevilla,1.3,1,1,0.7,Osasuna
+147,19,Tue,19:00,Mallorca,0.9,1,5,5.0,Barcelona
+148,19,Wed,21:00,Athletic Club,1.8,2,1,1.7,Real Madrid
+149,16,Fri,21:00,Celta Vigo,0.9,2,0,0.8,Mallorca
+150,16,Sat,13:00,Las Palmas,1.1,2,1,1.3,Valladolid
+151,16,Sat,16:15,Betis,3.1,2,2,1.9,Barcelona
+152,16,Sat,18:30,Valencia,1.3,0,1,0.9,Rayo Vallecano
+153,16,Sat,21:00,Girona,0.4,0,3,0.9,Real Madrid
+154,16,Sun,14:00,Leganés,0.7,0,3,1.8,Real Sociedad
+155,16,Sun,16:15,Athletic Club,1.2,2,0,0.8,Villarreal
+156,16,Sun,18:30,Osasuna,1.8,2,2,1.3,Alavés
+157,16,Sun,21:00,Atlético Madrid,2.0,4,3,0.4,Sevilla
+158,16,Mon,21:00,Getafe,0.4,1,0,0.7,Espanyol
+159,17,Fri,21:00,Valladolid,0.6,1,0,0.8,Valencia
+160,17,Sat,14:00,Espanyol,0.3,0,0,0.3,Osasuna
+161,17,Sat,16:15,Mallorca,1.2,2,1,0.8,Girona
+162,17,Sat,18:30,Sevilla,0.7,1,0,1.2,Celta Vigo
+163,17,Sat,21:00,Rayo Vallecano,1.6,3,3,0.7,Real Madrid
+164,17,Sun,14:00,Atlético Madrid,1.7,1,0,0.2,Getafe
+165,17,Sun,16:15,Alavés,0.9,1,1,0.7,Athletic Club
+166,17,Sun,18:30,Real Sociedad,1.1,0,0,1.0,Las Palmas
+167,17,Sun,18:30,Villarreal,1.9,1,2,0.8,Betis
+168,17,Sun,21:00,Barcelona,2.6,0,1,0.4,Leganés
+169,12,Wed,21:30,Villarreal,1.4,1,1,1.5,Rayo Vallecano
+170,13,Wed,21:30,Espanyol,2.1,1,1,2.0,Valencia
+171,18,Fri,21:00,Girona,2.5,3,0,0.0,Valladolid
+172,18,Sat,14:00,Getafe,0.8,0,1,2.3,Mallorca
+173,18,Sat,16:15,Celta Vigo,1.3,2,0,0.3,Real Sociedad
+174,18,Sat,18:30,Osasuna,0.6,1,2,1.2,Athletic Club
+175,18,Sat,21:00,Barcelona,2.7,1,2,0.7,Atlético Madrid
+176,18,Sun,14:00,Valencia,1.5,2,2,1.6,Alavés
+177,18,Sun,16:15,Real Madrid,2.0,4,2,1.3,Sevilla
+178,18,Sun,17:30,Las Palmas,0.9,1,0,0.7,Espanyol
+179,18,Sun,18:30,Leganés,1.2,2,5,3.3,Villarreal
+180,18,Sun,21:00,Betis,2.1,1,1,0.9,Rayo Vallecano
+181,12,Fri,21:00,Valencia,1.3,1,2,2.7,Real Madrid
+182,19,Fri,21:00,Rayo Vallecano,0.7,2,1,2.1,Celta Vigo
+183,19,Sat,14:00,Alavés,1.3,0,1,0.5,Girona
+184,19,Sat,16:15,Valladolid,1.2,1,0,0.7,Betis
+185,19,Sat,18:30,Espanyol,0.7,1,1,2.0,Leganés
+186,19,Sat,21:00,Sevilla,0.5,1,1,0.7,Valencia
+187,19,Sun,13:00,Las Palmas,1.3,1,2,1.1,Getafe
+188,19,Sun,16:15,Atlético Madrid,2.5,1,0,0.3,Osasuna
+189,19,Mon,21:00,Real Sociedad,0.8,1,0,1.2,Villarreal
+190,20,Fri,21:00,Espanyol,1.0,2,1,1.2,Valladolid
+191,20,Sat,14:00,Girona,1.0,1,2,2.6,Sevilla
+192,20,Sat,16:15,Leganés,0.5,1,0,2.4,Atlético Madrid
+193,20,Sat,18:30,Betis,0.5,1,3,1.5,Alavés
+194,20,Sat,21:00,Getafe,1.3,1,1,2.3,Barcelona
+195,20,Sun,14:00,Celta Vigo,0.6,1,2,1.8,Athletic Club
+196,20,Sun,16:15,Real Madrid,5.9,4,1,1.1,Las Palmas
+197,20,Sun,18:30,Osasuna,0.8,1,1,0.8,Rayo Vallecano
+198,20,Sun,21:00,Valencia,1.6,1,0,0.8,Real Sociedad
+199,20,Mon,21:00,Villarreal,2.4,4,0,0.5,Mallorca
+200,21,Fri,20:00,Las Palmas,0.8,1,1,2.6,Osasuna
+201,21,Sat,14:00,Mallorca,1.0,0,1,0.4,Betis
+202,21,Sat,16:15,Atlético Madrid,1.7,1,1,2.2,Villarreal
+203,21,Sat,18:30,Sevilla,1.2,1,1,0.7,Espanyol
+204,21,Sat,21:00,Valladolid,0.2,0,3,2.0,Real Madrid
+205,21,Sun,14:00,Rayo Vallecano,2.4,2,1,1.0,Girona
+206,21,Sun,16:15,Real Sociedad,0.9,0,3,1.4,Getafe
+207,21,Sun,18:30,Athletic Club,2.1,0,0,1.0,Leganés
+208,21,Sun,21:00,Barcelona,4.4,7,1,1.5,Valencia
+209,21,Mon,21:00,Alavés,0.9,1,1,0.1,Celta Vigo
+210,22,Fri,21:00,Leganés,0.9,0,1,2.2,Rayo Vallecano
+211,22,Sat,14:00,Getafe,1.0,0,0,0.9,Sevilla
+212,22,Sat,16:15,Villarreal,3.5,5,1,0.5,Valladolid
+213,22,Sat,18:30,Atlético Madrid,1.3,2,0,0.5,Mallorca
+214,22,Sat,21:00,Espanyol,0.3,1,0,1.3,Real Madrid
+215,22,Sun,14:00,Barcelona,1.0,1,0,0.1,Alavés
+216,22,Sun,16:15,Valencia,1.6,2,1,0.4,Celta Vigo
+217,22,Sun,18:30,Osasuna,0.7,2,1,2.0,Real Sociedad
+218,22,Sun,21:00,Betis,1.1,2,2,1.4,Athletic Club
+219,22,Mon,21:00,Girona,2.0,2,1,1.5,Las Palmas
+220,23,Fri,21:00,Rayo Vallecano,2.3,1,0,0.4,Valladolid
+221,23,Sat,14:00,Celta Vigo,2.2,3,2,1.3,Betis
+222,23,Sat,16:15,Athletic Club,3.6,3,0,0.1,Girona
+223,23,Sat,17:30,Las Palmas,1.4,1,2,0.9,Villarreal
+224,23,Sat,21:00,Real Madrid,1.6,1,1,1.5,Atlético Madrid
+225,23,Sun,14:00,Alavés,1.4,0,1,0.9,Getafe
+226,23,Sun,16:15,Valencia,1.9,2,0,0.5,Leganés
+227,23,Sun,18:30,Real Sociedad,1.7,2,1,0.9,Espanyol
+228,23,Sun,21:00,Sevilla,0.7,1,4,1.9,Barcelona
+229,23,Mon,21:00,Mallorca,1.3,1,1,1.4,Osasuna
+230,24,Fri,21:00,Girona,0.9,1,2,0.6,Getafe
+231,24,Sat,14:00,Leganés,1.8,3,3,1.7,Alavés
+232,24,Sat,16:15,Osasuna,1.4,1,1,1.4,Real Madrid
+233,24,Sat,18:30,Atlético Madrid,0.6,1,1,1.7,Celta Vigo
+234,24,Sat,21:00,Villarreal,1.3,1,1,1.1,Valencia
+235,24,Sun,14:00,Espanyol,0.8,1,1,1.0,Athletic Club
+236,24,Sun,16:15,Valladolid,0.5,0,4,1.1,Sevilla
+237,24,Sun,18:30,Mallorca,1.7,3,1,0.8,Las Palmas
+238,24,Sun,21:00,Betis,2.3,3,0,0.3,Real Sociedad
+239,24,Mon,21:00,Barcelona,2.3,1,0,1.0,Rayo Vallecano
+240,25,Fri,21:00,Celta Vigo,1.8,1,0,1.2,Osasuna
+241,25,Sat,14:00,Alavés,1.8,0,1,0.4,Espanyol
+242,25,Sat,16:15,Rayo Vallecano,0.6,0,1,0.6,Villarreal
+243,25,Sat,18:30,Valencia,0.8,0,3,1.3,Atlético Madrid
+244,25,Sat,20:00,Las Palmas,0.4,0,2,1.4,Barcelona
+245,25,Sun,14:00,Athletic Club,3.8,7,1,0.5,Valladolid
+246,25,Sun,16:15,Real Madrid,2.2,2,0,0.4,Girona
+247,25,Sun,18:30,Getafe,1.2,1,2,2.0,Betis
+248,25,Sun,21:00,Real Sociedad,0.7,3,0,0.3,Leganés
+249,25,Mon,21:00,Sevilla,1.3,1,1,2.3,Mallorca

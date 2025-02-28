@@ -1,22 +1,6 @@
-%Y-%h-%D-%H:%M:%S:hi there
- 2025-Feb-02/27/25-05:43:39:hi there
- 2025-Feb-02/27/25-06:20:55:hi there
- 2025-Feb-02/27/25-06:21:26:hi there
- 2025-Feb-02/27/25-06:22:55:hi there
- 2025-Feb-02/27/25-06:23:08:hi there
- 2025-Feb-02/27/25-06:24:34:hi there
- 2025-Feb-02/27/25-06:24:56:hi there
- 2025-Feb-02/27/25-06:27:00:hi there
- 2025-Feb-02/27/25-06:27:14:hi there
- 2025-Feb-02/27/25-06:40:02:hi there
- 2025-Feb-02/27/25-06:40:33:hi there
- 2025-Feb-02/27/25-06:42:45:hi there
- 2025-Feb-02/27/25-06:43:32:hi there
- 2025-Feb-02/27/25-06:44:30:hi there
- 2025-Feb-02/27/25-06:59:40:hi there
- 2025-Feb-02/27/25-07:00:25:hi there
- 2025-Feb-02/27/25-07:03:24:hi there
- 2025-Feb-02/27/25-07:03:51:hi there
- 2025-Feb-02/27/25-07:04:21:hi there
- 2025-Feb-02/27/25-07:04:48:hi there
+2025-Feb-02/28/25-13:40:35:Preliminaries complete. Initiating ETL process
+ 2025-Feb-02/28/25-13:40:35:Data extraction complete. Initiating Loading process
+ 2025-Feb-02/28/25-13:40:35:SQL Connection initiated
+ 2025-Feb-02/28/25-13:40:36:Data loaded to Database as a table,
+ 2025-Feb-02/28/25-13:40:36:Data saved to CSV file
  
